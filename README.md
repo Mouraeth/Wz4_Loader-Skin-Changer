@@ -8,7 +8,7 @@
 
 ## 📌 About
 Wz4_Loader-Skin-Changer is a lightweight loader-style utility project focused on configuration management, app launching, and UI systems.
-
+(THIS IS PROBABLY DETECTED)
 ---
 
 ## ✨ Features
@@ -26,6 +26,7 @@ Build instructions coming soon.
 
 ## 🧠 Credits
 Built by: Wz4 Loader contributors
+**uploading onto https://github.com/Mouraeth
 
 ---
 
